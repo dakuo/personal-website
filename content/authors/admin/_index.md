@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dakuo Wang 王大阔(Chinese Name)
+title: Dakuo Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Team Lead
+role: Research Staff Member & Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
