@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Dakuo Wang # Website name
+title: (Under Construction) Dakuo Wang # Website name
 baseurl: 'https://dakuo.netlify.app/' # Website URL
 copyright: '© {year} Dakuo Wang' # Footer text, e.g. '© {year} Me'
 
