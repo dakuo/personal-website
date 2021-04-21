@@ -12,6 +12,7 @@ role: Research Staff Member & Principal Investigator
 organizations:
 - name: IBM Research AI
   url: https://www.research.ibm.com/artificial-intelligence/
+
 - name: MIT-IBM Watson AI Lab
   url: https://mitibmwatsonailab.mit.edu/
 
