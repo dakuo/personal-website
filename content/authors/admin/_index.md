@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:dakuo@acm.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dakuowang
@@ -76,10 +76,8 @@ email: "dakuo@acm.org"
 highlight_name: true
 ---
 
-Dakuo Wang (Chinese Name: 王大阔) is a Research Team Lead @ IBM Research AI, and a Principal Investigator at MIT-IBM Watson AI Lab, based in Cambridge Massachusetts. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). He is now leading a team of researchers, engineers, and designers to conduct research and design user experience for IBM AutoAI, a solution to automate the AI modeling pipeline. Outside his IBM work, Dakuo is also broadly interested in how people interact with real-world AI applications, in particular conversational agents and clinical decision support systems. He proposes the “Human-AI Collaboration” paradigm to study and design AI systems to work together with humans.
+Dr.Dakuo Wang is a Research Staff Member @ IBM Research AI, and a Principal Investigator at MIT-IBM Watson AI Lab, based in Cambridge Massachusetts. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). efore joining IBM Research, Dakuo Wang got his Ph.D. in Information and Computer Science from the University of California Irvine (advisor: Judith ang Gary Olson).
 
-Before joining IBM Research, Dakuo Wang got his Ph.D. in Information and Computer Science from the University of California Irvine (advisor: Judith ang Gary Olson), a Diplôme d’Ingénieur (M.S.) in Information System from École Centrale d’Électronique Paris, and a B.S. in Computer Science from Beijing University of Technology. He has worked as an engineer, designer, and researcher in France, China, and the United States.
-
-ACM has recognized Dakuo Wang as an ACM Distinguished Speaker in 2019.
+He is now leading a team to conduct research and design user experience for IBM AutoAI. Outside his IBM work, Dakuo is also broadly interested in how human interact with real-world AI applications such as conversational agents and clinical decision support systems (Human-AI Collaboration). ACM has recognized Dakuo Wang as an ACM Distinguished Speaker.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}.
