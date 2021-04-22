@@ -6,7 +6,7 @@ title: Dakuo Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Staff Member   & Principle Investigator
+role: Research Staff Member   & Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,7 +75,7 @@ email: "dakuo@acm.org"
 highlight_name: true
 ---
 
-Dr. Dakuo Wang is a Research Staff Member [@IBM Research AI](https://www.research.ibm.com/artificial-intelligence/), and a Principal Investigator [@MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/), based at Cambridge, MA. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). Before joining IBM Research, Dakuo got his Ph.D. from the University of California Irvine (advisor: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)).
+Dr. Dakuo Wang is a Research Staff Member [@IBM Research AI](https://www.research.ibm.com/artificial-intelligence/), and Principal Investigator [@MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/), based at Cambridge, MA. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). Before joining IBM Research, Dakuo got his Ph.D. from the University of California Irvine (advisor: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)).
 
 He is now leading a team to conduct research and design user experience for IBM AutoAI. Outside his IBM work, Dakuo is also broadly interested in how human interact with real-world AI applications such as conversational agents and clinical decision support systems (Human-AI Collaboration). ACM has recognized Dakuo Wang as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).
 

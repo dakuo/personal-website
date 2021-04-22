@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
-subtitle = ""
+# title = "Academic Template"
+# subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
