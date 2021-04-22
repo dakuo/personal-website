@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< twitter dakuowang >}}
+<!-- {{<twitter dakuowang>}} -->
 
 <a class="twitter-timeline" href="https://twitter.com/dakuowang?ref_src=twsrc%5Etfw">Tweets by dakuowang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

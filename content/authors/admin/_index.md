@@ -6,7 +6,7 @@ title: Dakuo Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Staff Member & P.I.
+role: Research Staff Member   & Principle Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
