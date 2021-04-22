@@ -75,8 +75,8 @@ email: "dakuo@acm.org"
 highlight_name: true
 ---
 
-Dr.Dakuo Wang is a Research Staff Member @ IBM Research AI, and a Principal Investigator at MIT-IBM Watson AI Lab, based in Cambridge Massachusetts. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). efore joining IBM Research, Dakuo Wang got his Ph.D. in Information and Computer Science from the University of California Irvine (advisor: Judith ang Gary Olson).
+Dr.Dakuo Wang is a Research Staff Member @ IBM Research AI, and a Principal Investigator at MIT-IBM Watson AI Lab, based in Cambridge Massachusetts. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). efore joining IBM Research, Dakuo Wang got his Ph.D. in Information and Computer Science from the University of California Irvine (advisor: {{< ref "https://en.wikipedia.org/wiki/Judith_S._Olson" "newtab" >}}Judith Olson{{< /ref >}} and Gary Olson).
 
 He is now leading a team to conduct research and design user experience for IBM AutoAI. Outside his IBM work, Dakuo is also broadly interested in how human interact with real-world AI applications such as conversational agents and clinical decision support systems (Human-AI Collaboration). ACM has recognized Dakuo Wang as an ACM Distinguished Speaker.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
