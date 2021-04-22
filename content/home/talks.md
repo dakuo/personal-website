@@ -40,3 +40,6 @@ design:
   view: 1
   # columns: 2
 ---
+
+<a class="twitter-timeline" data-height="450" data-dnt="true" href="https://twitter.com/dakuowang?ref_src=twsrc%5Etfw">Tweets by dakuowang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---

@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # title = "Academic Template"
@@ -41,6 +41,7 @@ weight = 15  # Order that this section will appear.
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
+  
 
 [advanced]
  # Custom CSS. 
@@ -50,7 +51,7 @@ weight = 15  # Order that this section will appear.
  css_class = ""
 +++
 
-<a class="twitter-timeline" href="https://twitter.com/dakuowang?ref_src=twsrc%5Etfw">Tweets by dakuowang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="450" data-dnt="true" href="https://twitter.com/dakuowang?ref_src=twsrc%5Etfw">Tweets by dakuowang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- 
 ## 👋 Welcome to the Academic Template
