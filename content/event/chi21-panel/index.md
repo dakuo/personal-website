@@ -19,8 +19,8 @@ title: I will moderate a CHI'21 panel discussion on "Designing AI to Work WITH
   or FOR People?" with Prof.Pattie Maes, Prof.Xiangshi Ren, Prof.Ben
   Shneiderman, Prof.Yuanchun Shi, and Dr.Qianying Wang.
 location: Virtual
-date: 2021-05-09T23:00:00Z
-date_end: 2030-05-10T00:00:00Z
+date: 2021-05-09T23:00:00.000Z
+date_end: 2030-05-10T00:00:00.000Z
 all_day: false
 event: CHI 2021
 event_url: https://programs.sigchi.org/chi/2021/program/content/57111
@@ -39,7 +39,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/dakuowang
-publishDate: 2021-04-25T00:00:00Z
+publishDate: 2021-04-25T00:00:00.000Z
 tags: []
 projects: []
 image:
