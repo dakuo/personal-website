@@ -30,11 +30,11 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  filename: featured.jpg
-  caption: 'screenshot of CHI'21 panel submission.'
-  focal_point: Smart
-  preview_only: false
+# image:
+#   filename: featured.jpg
+#   caption: 'screenshot of CHI'21 panel submission.'
+#   focal_point: Smart
+#   preview_only: false
 
 links:
 - icon: twitter
