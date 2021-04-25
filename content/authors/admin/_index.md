@@ -20,49 +20,26 @@ organizations:
 bio: My research interests include human-computer interaction, artificial intelligence, and human-AI collaboration.
 
 # Interests to show in About widget
-research interests:
+interests:
 - Human Computer Interaction
 - Artificial Intelligence
 - Human AI Collaboration
 
 # # Education to show in About widget
-# education:
-#   courses:
-#   - course: PhD in Information and Computer Sciences
-#     institution: University of California Irvine
-#     year: 2016
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2010
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2010
-#  - course: BSc in Computer Science
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-news:
-  - news 1
-  - news 2
-
-# testnewscollection:
-#   content:
-#     # Page type to display. E.g. post, event, publication...
-#     page_type: event
-#     # Choose how many pages you would like to display (0 = all pages)
-#     count: 5
-#     # Filter on criteria
-#     filters:
-#       author: ""
-#       category: ""
-#       tag: ""
-#       exclude_featured: false
-#       exclude_future: false
-#       exclude_past: false
-#       publication_type: ""
-#     # Choose how many pages you would like to offset by
-#     offset: 0
-#     # Page order: descending (desc) or ascending (asc) date.
-#     order: desc
+education:
+  courses:
+  - course: PhD in Information and Computer Sciences
+    institution: University of California Irvine
+    year: 2012 - 2016
+ - course: MS in Electrical and Computer Engineering
+   institution: University of California Irvine
+   year: 2011 - 2012
+ - course: MS in Information System
+   institution: École centrale d’électronique Paris
+   year: 2010
+ - course: BS in Computer Science
+   institution: Beijing University of Technology
+   year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
