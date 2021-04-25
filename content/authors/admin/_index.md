@@ -19,11 +19,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include human-computer interaction, artificial intelligence, and human-AI collaboration.
 
-# # Interests to show in About widget
-# interests:
-# - Human Computer Interaction
-# - Artificial Intelligence
-# - Human AI Collaboration
+# Interests to show in About widget
+research interests:
+- Human Computer Interaction
+- Artificial Intelligence
+- Human AI Collaboration
 
 # # Education to show in About widget
 # education:
@@ -40,6 +40,29 @@ bio: My research interests include human-computer interaction, artificial intell
 #  - course: BSc in Computer Science
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
+news:
+  - news 1
+  - news 2
+
+# testnewscollection:
+#   content:
+#     # Page type to display. E.g. post, event, publication...
+#     page_type: event
+#     # Choose how many pages you would like to display (0 = all pages)
+#     count: 5
+#     # Filter on criteria
+#     filters:
+#       author: ""
+#       category: ""
+#       tag: ""
+#       exclude_featured: false
+#       exclude_future: false
+#       exclude_past: false
+#       publication_type: ""
+#     # Choose how many pages you would like to offset by
+#     offset: 0
+#     # Page order: descending (desc) or ascending (asc) date.
+#     order: desc
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -81,7 +104,7 @@ He is now leading a team to conduct research and design user experience for IBM 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
-News:
+<!-- News:
 - news 1
 - news 2
-- news 3
+- news 3 -->
