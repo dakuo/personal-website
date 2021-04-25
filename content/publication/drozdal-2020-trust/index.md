@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Jaimie Drozdal
 - Justin Weisz
-- Dakuo Wang
+- admin
 - Gaurav Dass
 - Bingsheng Yao
 - Changruo Zhao

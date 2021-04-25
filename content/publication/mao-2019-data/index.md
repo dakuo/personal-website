@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yaoli Mao
-- Dakuo Wang
+- admin
 - Michael Muller
 - Kush R Varshney
 - Ioana Baldini
@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:44.907582Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Proceedings of the ACM on Human-Computer Interaction*'
 ---

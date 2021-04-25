@@ -6,7 +6,7 @@ title: '\" Brilliant AI Doctor\" in Rural China: Tensions and Challenges in AI-P
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Liuping Wang
 - Zhan Zhang
 - Ding Wang

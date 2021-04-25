@@ -5,7 +5,7 @@ title: Calculating online social network distance between entities of an organiz
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Chuang Gan
 - Michael Muller
 - Zijun Wang
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:41.988729Z'
 publication_types:
-- '0'
+- '8'
 abstract: ''
 publication: '*Google Patents*'
 ---

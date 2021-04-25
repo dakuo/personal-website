@@ -9,7 +9,7 @@ authors:
 - Zhan Zhang
 - Yegin Genc
 - Aiwen Xing
-- Dakuo Wang
+- admin
 - Xiangmin Fan
 - Daniel Citardi
 tags: []
@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:41.435479Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Proceedings of the Association for Information Science and Technology*'
 ---

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Judith S Olson
-- Dakuo Wang
+- admin
 - Gary M Olson
 - Jingwen Zhang
 tags: []

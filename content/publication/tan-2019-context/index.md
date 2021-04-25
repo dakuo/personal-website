@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ming Tan
-- Dakuo Wang
+- admin
 - Yupeng Gao
 - Haoyu Wang
 - Saloni Potdar

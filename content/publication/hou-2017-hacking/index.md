@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Youyang Hou
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2017-01-01'
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:37.283686Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Proc. ACM Hum.-Comput. Interact*'
 ---

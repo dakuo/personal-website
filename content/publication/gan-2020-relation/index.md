@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Chuang Gan
 - Sijia Liu
-- Dakuo Wang
+- admin
 - Yang Zhang
 tags: []
 categories: []
@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:42.345418Z'
 publication_types:
-- '0'
+- '8'
 abstract: ''
-publication: ''
+publication: '*Google Patents*'
 ---

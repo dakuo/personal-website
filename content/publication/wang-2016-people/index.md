@@ -6,7 +6,7 @@ title: "How people write together now: Exploring and supporting today's computer
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2016-01-01'

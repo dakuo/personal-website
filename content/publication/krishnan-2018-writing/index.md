@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Jenell Krishnan
 - Andrew Cusimano
-- Dakuo Wang
+- admin
 - Soobin Yim
 tags: []
 categories: []

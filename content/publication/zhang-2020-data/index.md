@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Amy X Zhang
 - Michael Muller
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2020-01-01'
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:40.181760Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Proceedings of the ACM on Human-Computer Interaction*'
 ---

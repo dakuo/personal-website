@@ -11,7 +11,7 @@ authors:
 - Jonathan Grudin
 - Ewa Luger
 - Andrés Monroy-Hernández
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2019-01-01'

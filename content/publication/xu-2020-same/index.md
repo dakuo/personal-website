@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ying Xu
-- Dakuo Wang
+- admin
 - Penelope Collins
 - Hyelim Lee
 - Mark Warschauer

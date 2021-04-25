@@ -6,7 +6,7 @@ title: "Human-AI Collaboration in Data Science: Exploring Data Scientists' Perce
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Justin D Weisz
 - Michael Muller
 - Parikshit Ram
@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:39.452161Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Proceedings of the ACM on Human-Computer Interaction*'
 ---

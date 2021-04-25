@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Soobin Yim
-- Dakuo Wang
+- admin
 - Judith Olson
 - Viet Vu
 - Mark Warschauer

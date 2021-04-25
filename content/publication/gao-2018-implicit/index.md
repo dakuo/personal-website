@@ -9,7 +9,7 @@ authors:
 - Jing Gao
 - Feng Tian
 - Junjun Fan
-- Dakuo Wang
+- admin
 - Xiangmin Fan
 - Yicheng Zhu
 - Shuai Ma

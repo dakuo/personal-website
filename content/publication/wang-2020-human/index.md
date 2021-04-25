@@ -6,7 +6,7 @@ title: 'From Human-Human Collaboration to Human-AI Collaboration: Designing AI S
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Elizabeth Churchill
 - Pattie Maes
 - Xiangmin Fan

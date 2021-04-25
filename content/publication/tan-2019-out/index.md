@@ -8,7 +8,7 @@ authors:
 - Ming Tan
 - Yang Yu
 - Haoyu Wang
-- Dakuo Wang
+- admin
 - Saloni Potdar
 - Shiyu Chang
 - Mo Yu
@@ -35,7 +35,9 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:39.813353Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*arXiv preprint arXiv:1909.05357*'
+publication: '*Proceedings of the 2019 Conference on Empirical Methods in Natural
+  Language Processing and the 9th International Joint Conference on Natural Language
+  Processing (EMNLP-IJCNLP)*'
 ---

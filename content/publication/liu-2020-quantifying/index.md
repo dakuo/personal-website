@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:41.623837Z'
 publication_types:
-- '0'
+- '8'
 abstract: ''
 publication: '*Google Patents*'
 ---

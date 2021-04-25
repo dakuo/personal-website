@@ -5,7 +5,7 @@ title: 'DocuViz: visualizing collaborative writing'
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Judith S Olson
 - Jingwen Zhang
 - Trung Nguyen

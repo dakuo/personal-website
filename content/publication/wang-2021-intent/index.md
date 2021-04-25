@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Haoyu Wang
 - Ming Tan
-- Dakuo Wang
+- admin
 - Chuang Gan
 - Saloni Potdar
 tags: []
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:44.539338Z'
 publication_types:
-- '0'
+- '8'
 abstract: ''
 publication: '*Google Patents*'
 ---

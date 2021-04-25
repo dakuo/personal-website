@@ -9,7 +9,7 @@ authors:
 - Xiangmin Fan
 - Daren Chao
 - Zhan Zhang
-- Dakuo Wang
+- admin
 - Xiaohua Li
 - Feng Tian
 tags: []

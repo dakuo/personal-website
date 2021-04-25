@@ -5,7 +5,7 @@ title: 'AutoDS: Towards Human-Centered Automation of Data Science'
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Josh Andres
 - Justin Weisz
 - Erick Oduor
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:43.257235Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: "*Proceeding of CHI'21*"
 ---

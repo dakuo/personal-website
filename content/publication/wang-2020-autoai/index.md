@@ -5,7 +5,7 @@ title: 'AutoAI: Automating the End-to-End AI Lifecycle with Humans-in-the-Loop'
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Parikshit Ram
 - Daniel Karl I Weidele
 - Sijia Liu

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - April Yi Wang
-- Dakuo Wang
+- admin
 - Jaimie Drozdal
 - Michael Muller
 - Soya Park
@@ -37,7 +37,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:44.173689Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*arXiv preprint arXiv:2102.12592*'
 ---

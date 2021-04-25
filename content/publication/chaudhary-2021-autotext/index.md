@@ -10,7 +10,7 @@ authors:
 - Kiran Kate
 - Yannis Katsis
 - Abel Valente
-- Dakuo Wang
+- admin
 - Alexandre Evfimievski
 - Sairam Gurajada
 - Ban Kawas

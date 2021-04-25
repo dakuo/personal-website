@@ -6,7 +6,7 @@ title: 'Why Users Do Not Want to Write Together When They Are Writing Together: 
 subtitle: ''
 summary: ''
 authors:
-- DAKUO WANG
+- admin
 - HAODAN TAN
 - TUN LU
 tags: []
@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:37.104325Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*Proc. ACM Hum.-Comput. Interact*'
 ---

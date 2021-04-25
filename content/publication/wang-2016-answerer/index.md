@@ -5,7 +5,7 @@ title: Answerer engagement in an enterprise social question & answering system
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Youyang Hou
 - Lin Luo
 - Yingxin Pan

@@ -12,7 +12,7 @@ authors:
 - Michael Muller
 - Josh Andres
 - Alexander Gray
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2020-01-01'

@@ -5,7 +5,7 @@ title: How students collaboratively write using Google Docs
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Judith S Olson
 - Jingwen Zhang
 - Trung Nguyen
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:29.246819Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*iConference 2015 Proceedings*'
 ---

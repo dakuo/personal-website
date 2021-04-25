@@ -5,7 +5,7 @@ title: How Much Automation Does a Data Scientist Want?
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Q Vera Liao
 - Yunfeng Zhang
 - Udayan Khurana
@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:43.076563Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*arXiv preprint arXiv:2101.03970*'
 ---

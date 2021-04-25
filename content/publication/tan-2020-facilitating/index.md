@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ming Tan
-- Dakuo Wang
+- admin
 - Mo Yu
 - Chuang Gan
 - Haoyu Wang
@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:41.800455Z'
 publication_types:
-- '0'
+- '8'
 abstract: ''
 publication: '*Google Patents*'
 ---

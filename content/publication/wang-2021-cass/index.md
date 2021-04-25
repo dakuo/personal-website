@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Liuping Wang
-- Dakuo Wang
+- admin
 - Feng Tian
 - Zhenhui Peng
 - Xiangmin Fan

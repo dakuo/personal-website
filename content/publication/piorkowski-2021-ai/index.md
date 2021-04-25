@@ -9,7 +9,7 @@ authors:
 - David Piorkowski
 - Soya Park
 - April Yi Wang
-- Dakuo Wang
+- admin
 - Michael Muller
 - Felix Portnoy
 tags: []
@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:43.454064Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: "*Proceeding of CSCW'21*"
 ---

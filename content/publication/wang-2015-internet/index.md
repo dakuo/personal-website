@@ -5,7 +5,7 @@ title: 'Internet censorship in China: Examining user awareness and attitudes'
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Gloria Mark
 tags: []
 categories: []

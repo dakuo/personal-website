@@ -11,7 +11,7 @@ authors:
 - Djallel Bouneffouf
 - Gregory Bramble
 - Horst Samulowitz
-- Dakuo Wang
+- admin
 - Andrew Conn
 - Alexander Gray
 tags: []

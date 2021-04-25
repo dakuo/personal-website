@@ -8,7 +8,7 @@ authors:
 - Parikshit Ram
 - Sijia Liu
 - Deepak Vijaykeerthi
-- Dakuo Wang
+- admin
 - Djallel Bouneffouf
 - Greg Bramble
 - Horst Samulowitz
@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:41.078124Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*arXiv preprint arXiv:2006.09635*'
 ---

@@ -13,7 +13,7 @@ authors:
 - Haipeng Mi
 - Tun Lu
 - Chun Yu
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2019-01-01'

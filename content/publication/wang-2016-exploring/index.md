@@ -5,7 +5,7 @@ title: Exploring and Supporting Today's Collaborative Writing
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 tags: []
 categories: []
 date: '2016-01-01'

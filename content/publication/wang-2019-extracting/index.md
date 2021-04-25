@@ -9,7 +9,7 @@ authors:
 - Ming Tan
 - Mo Yu
 - Shiyu Chang
-- Dakuo Wang
+- admin
 - Kun Xu
 - Xiaoxiao Guo
 - Saloni Potdar
@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:38.543889Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
 publication: '*arXiv preprint arXiv:1902.01030*'
 ---

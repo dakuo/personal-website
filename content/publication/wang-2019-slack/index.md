@@ -6,7 +6,7 @@ title: 'Slack Channels Ecology in Enterprises: How Employees Collaborate Through
 subtitle: ''
 summary: ''
 authors:
-- Dakuo Wang
+- admin
 - Haoyu Wang
 - Mo Yu
 - Zahra Ashktorab
@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-04-25T23:01:39.272236Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*arXiv preprint arXiv:1906.01756*'
 ---

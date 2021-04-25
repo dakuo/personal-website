@@ -11,7 +11,7 @@ authors:
 - Matthew Davis
 - Yasaman Khazaeni
 - Marco Patricio Crasso
-- Dakuo Wang
+- admin
 - Michael Muller
 - N Sadat Shami
 - Werner Geyer
