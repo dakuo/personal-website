@@ -13,7 +13,7 @@ authors:
 - Mark Warschauer
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-12-01'
 lastmod: 2021-04-25T19:01:41-04:00
 featured: false
 draft: false

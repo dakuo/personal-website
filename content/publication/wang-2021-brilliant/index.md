@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '\" Brilliant AI Doctor\" in Rural China: Tensions and Challenges in AI-Powered
+title: '" Brilliant AI Doctor" in Rural China: Tensions and Challenges in AI-Powered
   CDSS Deployment'
 subtitle: ''
 summary: ''
@@ -16,7 +16,7 @@ authors:
 - Feng Tian
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-03-01'
 lastmod: 2021-04-25T19:01:42-04:00
 featured: false
 draft: false
