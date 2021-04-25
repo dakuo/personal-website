@@ -1,7 +1,7 @@
 ---
 title: "I will present a CHI'2021 paper \"AutoDS: Towards Human-Centered
   Automation of Data Science\""
-abstract: " "
+abstract: .
 location: virtual
 date: 2021-05-12T23:00:28.424Z
 date_end: 2021-05-13T01:00:00.000Z
@@ -10,9 +10,8 @@ event: CHI 2021
 event_url: https://programs.sigchi.org/chi/2021/program/content/47345
 publishDate: 2021-04-25T19:29:28.481Z
 draft: false
-featured: false
-authors:
-  - admin;dakuowang
+featured: true
+authors: []
 image:
   filename: ui-2.png
   focal_point: Smart
