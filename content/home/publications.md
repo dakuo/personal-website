@@ -24,7 +24,10 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: ''
+    category: 
+      - '1'
+      - '2'
+      - '3'
     publication_type: ''
     author: ''
     exclude_featured: false
@@ -34,7 +37,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 
 <!-- {{% callout note %}}

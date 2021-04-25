@@ -36,4 +36,12 @@ publication_types:
 - '1'
 abstract: ''
 publication: "*Proceeding of CHI'21*"
+url_pdf: 'https://arxiv.org/pdf/2101.05273.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
