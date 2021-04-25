@@ -30,10 +30,10 @@ education:
   courses:
   - course: PhD in Information and Computer Sciences
     institution: University of California Irvine
-    year: 2012 - 2016
+    year: 2016
  - course: MS in Electrical and Computer Engineering
    institution: University of California Irvine
-   year: 2011 - 2012
+   year: 2012
  - course: MS in Information System
    institution: École centrale d’électronique Paris
    year: 2010
