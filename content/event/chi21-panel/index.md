@@ -28,11 +28,11 @@ authors: [Dakuo Wang, Pattie Maes, Xiangshi Ren, Ben Shneiderman, Yuanchun Shi, 
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
-image:
-  caption: 'screenshot of CHI'21 panel submission.'
-  focal_point: Right
+# image:
+#   caption: 'screenshot of CHI'21 panel submission.'
+#   focal_point: Right
 
 links:
 - icon: twitter
