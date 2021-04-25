@@ -19,6 +19,8 @@ title: About Me
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
+---
+
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
@@ -46,4 +48,5 @@ design:
   #   4 = Citation (publication only)
   view: 1
   columns: 2
+
 ---
