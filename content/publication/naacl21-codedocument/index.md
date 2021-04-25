@@ -24,7 +24,7 @@ publication_short: In *Arxiv*
 url_source: ""
 url_video: ""
 publication: In *Arxiv*
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -59,6 +59,7 @@ title: "HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural
 tags: []
 projects:
   - NLG
+  - AutoAI
 image:
   filename: featured.png
 publishDate: 2021-03-31T00:00:00Z

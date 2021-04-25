@@ -39,14 +39,14 @@ abstract: "Prior works on formalizing explanations of a graph neural network (GN
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2103.13944.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,7 +68,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- xai
+- XAI
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
