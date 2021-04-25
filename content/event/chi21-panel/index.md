@@ -16,8 +16,8 @@ slides: ""
 url_pdf: ""
 summary: A CHI'21 panel discussion on "Designing AI to Work WITH or FOR People?"
 title: "I will moderate a CHI'21 panel discussion on \"Designing AI to Work WITH
-  or FOR People?\" with Prof.Pattie Maes, Prof.Xiangshi Ren, Prof.Ben
-  Shneiderman, Prof.Yuanchun Shi, and Dr.Qianying Wang. "
+  or FOR People?\" with Pattie Maes, Xiangshi Ren, Ben
+  Shneiderman, Yuanchun Shi, and Qianying Wang. "
 location: Virtual
 date: 2021-05-09T23:00:00Z
 date_end: 2021-05-10T00:00:00.000Z
