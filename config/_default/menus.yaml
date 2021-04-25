@@ -10,28 +10,21 @@ main:
   - name: News
     url: '#news'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Awards
-    url: '#awards'
-    weight: 50
-  - name: Patents
-    url: '#patents'
-    weight: 60
-  - name: Service
-    url: '#service'
-    weight: 70
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-
-  # - name: Contact
-  #   url: '#contact'
+  # - name: Awards
+  #   url: '#awards'
+  #   weight: 50
+  # - name: Patents
+  #   url: '#patents'
   #   weight: 60
+  # - name: Service
+  #   url: '#service'
+  #   weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
