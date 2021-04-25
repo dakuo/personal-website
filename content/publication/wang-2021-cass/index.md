@@ -40,7 +40,7 @@ publishDate: '2021-04-25T23:01:42.524658Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the CSCW'21*'
+publication: "*Proceedings of the CSCW'21*"
 url_pdf: 'https://arxiv.org/pdf/2101.01583.pdf'
 url_code: ''
 url_dataset: ''
