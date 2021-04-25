@@ -80,3 +80,8 @@ Dr. Dakuo Wang is a Research Staff Member [@IBM Research AI](https://www.researc
 He is now leading a team to conduct research and design user experience for IBM AutoAI. Outside his IBM work, Dakuo is also broadly interested in how human interact with real-world AI applications such as conversational agents and clinical decision support systems (Human-AI Collaboration). ACM has recognized Dakuo Wang as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+News:
+- news 1
+- news 2
+- news 3
