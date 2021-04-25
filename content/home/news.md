@@ -32,5 +32,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
-  columns: 2
+  # columns: 2
 ---
