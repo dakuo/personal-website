@@ -25,7 +25,7 @@ all_day: false
 event_url: https://programs.sigchi.org/chi/2021/program/content/57111
 featured: false
 authors:
-  - Dakuo Wang
+  - admin
   - Pattie Maes
   - Xiangshi Ren
   - Ben Shneiderman
