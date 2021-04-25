@@ -24,10 +24,7 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: 
-      - '1'
-      - '2'
-      - '3'
+    category: [1,2,3]
     publication_type: ''
     author: ''
     exclude_featured: false
