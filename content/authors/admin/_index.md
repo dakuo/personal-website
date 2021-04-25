@@ -30,16 +30,16 @@ education:
   courses:
   - course: PhD in Information and Computer Sciences
     institution: University of California Irvine
-    year: 2016
- - course: MS in Electrical and Computer Engineering
-   institution: University of California Irvine
-   year: 2012
- - course: MS in Information System
-   institution: École centrale d’électronique Paris
-   year: 2010
- - course: BS in Computer Science
-   institution: Beijing University of Technology
-   year: 2009
+    year: 2016-2012
+  - course: MS in Electrical and Computer Engineering
+    institution: University of California Irvine
+    year: 2012
+  - course: MS in Information System
+    institution: École centrale d’électronique Paris
+    year: 2010
+  - course: BS in Computer Science
+    institution: Beijing University of Technology
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
