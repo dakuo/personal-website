@@ -6,7 +6,7 @@ title: Dakuo Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Staff Member & Principal Investigator
+role: Research Staff Member <br> & Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,18 +19,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include human-computer interaction, artificial intelligence, and human-AI collaboration.
 
-# Interests to show in About widget
-interests:
-- Human Computer Interaction
-- Artificial Intelligence
-- Human AI Collaboration
+# # Interests to show in About widget
+# interests:
+# - Human Computer Interaction
+# - Artificial Intelligence
+# - Human AI Collaboration
 
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Information and Computer Sciences
-    institution: University of California Irvine
-    year: 2016
+# # Education to show in About widget
+# education:
+#   courses:
+#   - course: PhD in Information and Computer Sciences
+#     institution: University of California Irvine
+#     year: 2016
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2010

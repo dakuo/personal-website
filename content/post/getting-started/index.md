@@ -32,13 +32,13 @@ authors:
 - admin
 - 吳恩達
 
-tags:
-- Academic
-- 开源
+# tags:
+# - Academic
+# - 开源
 
-categories:
-- Demo
-- 教程
+# categories:
+# - Demo
+# - 教程
 ---
 
 ## Overview
@@ -49,7 +49,7 @@ categories:
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-## Get Started
+<!-- ## Get Started
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
@@ -102,4 +102,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license. -->
