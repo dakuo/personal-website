@@ -1,10 +1,10 @@
 ---
-title: Event example 1
+title: I will moderate a CHI'21 panel discussion on "Designing AI to Work WITH or FOR People?" with Prof.Pattie Maes, Prof.Xiangshi Ren, Prof.Ben Shneiderman, Prof.Yuanchun Shi, and Dr.Qianying Wang. 
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: CHI 2021
+event_url: https://programs.sigchi.org/chi/2021/program/content/57111
 
-location: Wowchemy HQ
+location: Virtual
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,25 +12,25 @@ location: Wowchemy HQ
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A CHI'21 panel discussion on "Designing AI to Work WITH or FOR People?"
+abstract: "Artificial Intelligence (AI) can refer to the machine learning algorithms and the automation applications built on top of these algorithms. Human-computer interaction (HCI) researchers have studied these AI applications and suggested various Human-Centered AI (HCAI) principles for an explainable, safe, reliable, and trustworthy interaction experience. While some designers believe that computers should be supertools and active appliances, others believe that these latest AI systems can be collaborators. With today's AI algorithm breakthroughs, in this panel we ask whether the supertool or the collaboration metaphors best support work and play? How can we design AI systems to work best with people or for people? What does it take to get there? This panel will bring together panelists with diverse backgrounds to engage the audience through the discussion of their shared or diverging visions on the future of human-AI interaction design."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
-all_day: true
+date: "2021-05-09T23:00:00Z"
+date_end: "2030-05-10T00:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-04-25T00:00:00Z"
 
-authors: []
+authors: [Dakuo Wang, Pattie Maes, Xiangshi Ren]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
-# image: ""
+# image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   # focal_point: Right
 
