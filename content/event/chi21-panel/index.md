@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-04-25T00:00:00Z"
 
-authors: [Dakuo Wang, Pattie Maes, Xiangshi Ren]
+authors: [Dakuo Wang, Pattie Maes, Xiangshi Ren, Ben Shneiderman, Yuanchun Shi, Qianying Wang]
 tags: []
 
 # Is this a featured talk? (true/false)
