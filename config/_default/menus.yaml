@@ -20,7 +20,7 @@ main:
   #   url: '#awards'
   #   weight: 50
   - name: Patents
-    url: './patents'
+    url: './patent'
     weight: 60
   # - name: Service
   #   url: '#service'
