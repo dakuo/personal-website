@@ -14,13 +14,13 @@ main:
   #   url: '#projects'
   #   weight: 30
   - name: Publications
-    url: './publication'
+    url: '#publications'
     weight: 40
   # - name: Awards
   #   url: '#awards'
   #   weight: 50
   - name: Patents
-    url: './patent'
+    url: '#patents'
     weight: 60
   # - name: Service
   #   url: '#service'
