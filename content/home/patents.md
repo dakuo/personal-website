@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+activate: false
 
 # This file represents a page section.
 headless: true
@@ -14,7 +15,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: page
+  page_type: patent
   # Choose how much pages you would like to display (0 = all pages)
   count: 2
   # Choose how many pages you would like to offset by
