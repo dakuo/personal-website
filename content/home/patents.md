@@ -2,20 +2,19 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-activate: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 90
 
-title: Patents
+title: Publications
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: blank
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
