@@ -3,6 +3,7 @@ title: "My student Liuping Wang will present a CHI'2021 paper \"Brilliant AI Doc
 abstract: .
 location_type: VirtualLocation
 location: VirtualLocation
+location_url: https://operaonline.stream5.com/
 date: 2021-05-12T23:00:00Z
 date_end: 2021-05-13T01:00:00Z
 all_day: false
