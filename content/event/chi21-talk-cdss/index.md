@@ -1,9 +1,9 @@
 ---
 title: "My student Liuping Wang will present a CHI'2021 paper \"Brilliant AI Doctor\" in Rural Clinics: Challenges in AI-Powered Clinical Decision Support System Deployment"
 abstract: .
-location_type: VirtualLocation
-location: VirtualLocation
-location_url: https://operaonline.stream5.com/
+# location_type: VirtualLocation
+location: Virtual
+# location_url: https://operaonline.stream5.com/
 date: 2021-05-12T23:00:00Z
 date_end: 2021-05-13T01:00:00Z
 all_day: false
