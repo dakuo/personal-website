@@ -2,7 +2,7 @@
 title: "My student Liuping Wang will present a CHI'2021 paper \"Brilliant AI Doctor\" in Rural Clinics: Challenges in AI-Powered Clinical Decision Support System Deployment"
 abstract: .
 location: Virtual
-address: TBD
+address: []
 date: 2021-05-12T23:00:00Z
 date_end: 2021-05-13T01:00:00Z
 all_day: false
