@@ -5,7 +5,12 @@ abstract: .
 # location: Virtual
 location: Virtual
   # url: https://operaonline.stream5.com/     
-# address: []
+address:
+  # street: 
+  # city: Stanford
+  # region: Japan
+  # postcode: '94305'
+  country: Japan
 date: 2021-05-12T23:00:00Z
 date_end: 2021-05-13T01:00:00Z
 all_day: false

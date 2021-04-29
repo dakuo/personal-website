@@ -3,7 +3,12 @@ title: "My student Liuping Wang will present a CHI'2021 paper \"Brilliant AI Doc
 abstract: .
 # location_type: VirtualLocation
 location: Virtual
-# location_url: https://operaonline.stream5.com/
+address:
+  # street: 
+  # city: Stanford
+  # region: Japan
+  # postcode: '94305'
+  country: Japan
 date: 2021-05-12T23:00:00Z
 date_end: 2021-05-13T01:00:00Z
 all_day: false

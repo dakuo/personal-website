@@ -19,12 +19,12 @@ title: "I will moderate a CHI'21 panel discussion on \"Designing AI to Work WITH
   or FOR People?\" with Pattie Maes, Xiangshi Ren, Ben
   Shneiderman, Yuanchun Shi, and Qianying Wang. "
 location: Virtual
-# address: []
-  # street: 450 Serra Mall
+address:
+  # street: 
   # city: Stanford
-  # region: CA
+  # region: Japan
   # postcode: '94305'
-  # country: United States
+  country: Japan
 date: 2021-05-09T23:00:00Z
 date_end: 2021-05-10T00:00:00.000Z
 all_day: false
