@@ -25,8 +25,8 @@ address:
   # region: Japan
   # postcode: '94305'
   country: Japan
-date: 2021-05-09T23:00:00Z
-date_end: 2021-05-10T00:00:00.000Z
+date: 2021-05-09 19:00 ET
+date_end: 2021-05-10 20:15 ET
 all_day: false
 event_url: https://programs.sigchi.org/chi/2021/program/content/57111
 featured: false
