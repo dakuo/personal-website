@@ -75,9 +75,9 @@ email: "dakuo@acm.org"
 highlight_name: true
 ---
 
-Dr. Dakuo Wang is a Research Staff Member at IBM Research AI, and Principal Investigator at MIT-IBM Watson AI Lab, based at Cambridge, MA. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). Before joining IBM Research, Dakuo got his Ph.D. from the University of California Irvine (advisor: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)).
+Dr. Dakuo Wang is a Research Staff Member at IBM Research, and Principal Investigator at MIT-IBM Watson AI Lab, based in Cambridge, MA. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). He is now co-leading IBM Research's human-centered natural language processing (HC-NLP) strategy. In the past couple of years, he has led a team to conduct human-centered research and design user experience for IBM Automation of AI & Data Science strategy. Outside his IBM work, Dakuo is also broadly interested in how humans interact with real-world AI applications (e.g., conversational agents and clinical decision support systems). He argues "the goal of Human-Centered AI systems is to achieve Human-AI Collaboration." 
 
-He is now leading a team to conduct research and design user experience for IBM AutoAI. Outside his IBM work, Dakuo is also broadly interested in how human interact with real-world AI applications such as conversational agents and clinical decision support systems (Human-AI Collaboration). ACM has recognized Dakuo Wang as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).
+Before joining IBM Research, Dakuo got his Ph.D. from the University of California Irvine (advisor: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)). He has worked as a designer, researcher, and engineer in the U.S., China,  and France. He is invited to give multiple talks in universities and organizations globally each year, and ACM has recognized Dakuo Wang as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
