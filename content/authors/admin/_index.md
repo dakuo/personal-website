@@ -6,7 +6,7 @@ title: Dakuo Wang
 superuser: true
 
 # Role/position/tagline
-role: Research Staff Member <br> & Principal Investigator
+role: Research Staff Member <br> & Principal Investigator <br> & Adjunct Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,14 +16,17 @@ organizations:
 - name: MIT-IBM Watson AI Lab
   url: https://mitibmwatsonailab.mit.edu/
 
+- name: Northeastern University
+  url: https://www.northeastern.edu/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-computer interaction, artificial intelligence, and human-AI collaboration.
+bio: My research interests include human-computer interaction, human-centered artificial intelligence, human-AI collaboration, and data science.
 
 # Interests to show in About widget
 interests:
 - Human Computer Interaction
-- Artificial Intelligence
-- Human AI Collaboration
+- Human-Centered Artificial Intelligence
+- Human-AI Collaboration
+- Data Science
 
 # # Education to show in About widget
 education:
@@ -75,7 +78,7 @@ email: "dakuo@acm.org"
 highlight_name: true
 ---
 
-Dr. Dakuo Wang is a Research Staff Member at IBM Research, and Principal Investigator at MIT-IBM Watson AI Lab, based in Cambridge, MA. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). He is now co-leading IBM Research's human-centered natural language processing (HC-NLP) strategy. In the past couple of years, he has led a team to conduct human-centered research and design user experience for IBM Automation of AI & Data Science strategy. Outside his IBM work, Dakuo is also broadly interested in how humans interact with real-world AI applications (e.g., conversational agents and clinical decision support systems). He argues "the goal of Human-Centered AI systems is to achieve Human-AI Collaboration." 
+Dr. Dakuo Wang is a Research Staff Member at IBM Research, Principal Investigator at MIT-IBM Watson AI Lab, and Adjunct Professor at Northeastern University, based in Cambridge, MA. His research lies in the intersection between human-computer interaction (HCI) and artificial intelligence (AI). He is now co-leading IBM Research's human-centered natural language processing (HC-NLP) strategy. In the past couple of years, he has led a team to conduct human-centered AI research and design user experience for IBM Automation of AI & Data Science strategy. Outside his IBM work, Dakuo is also broadly interested in how humans interact with real-world AI applications (e.g., conversational agents and clinical decision support systems). He argues "the goal of designing Human-Centered AI systems is to achieve Human-AI Collaboration." 
 
 Before joining IBM Research, Dakuo got his Ph.D. from the University of California Irvine (advisor: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)). He has worked as a designer, researcher, and engineer in the U.S., China,  and France. He is invited to give multiple talks in universities and organizations globally each year, and ACM has recognized Dakuo Wang as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).
 
