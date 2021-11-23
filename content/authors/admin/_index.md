@@ -19,12 +19,12 @@ organizations:
 - name: Northeastern University
   url: https://www.northeastern.edu/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-computer interaction, human-centered artificial intelligence, human-AI collaboration, and data science.
+bio: My research interests include human-computer interaction, computer-supported Cooperative work, human-AI collaboration, and data science.
 
 # Interests to show in About widget
 interests:
 - Human Computer Interaction
-- Human-Centered Artificial Intelligence
+- Computer-Supported Cooperative Work
 - Human-AI Collaboration
 - Data Science
 
