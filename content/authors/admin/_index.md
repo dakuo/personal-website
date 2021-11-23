@@ -57,7 +57,8 @@ social:
   link: https://twitter.com/dakuowang
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=roE9tXkAAAAJ&view_op=list_works&sortby=pubdate
+  link: https://scholar.google.com/citations?user=Uno8dugAAAAJ&hl=en
+  
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
