@@ -6,6 +6,9 @@ weight: 30
 title: Recent News
 subtitle: null
 
+active: false  # Activate this widget? true/false
+
+
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
