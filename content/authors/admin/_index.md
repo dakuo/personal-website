@@ -86,6 +86,7 @@ Dakuo Wang is an Associate Professor at Northeastern University, jointly appoint
 
 Before joining Northeastern, Dakuo was a Senior Staff Member at IBM Research, Principal Investigator at MIT-IBM Watson AI Lab, and a Visiting Scholar at Stanford Institute for Human-Centered Artificial Intelligence. He got his Ph.D. from the University of California Irvine (advisor: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)). He has worked as a designer, researcher, and engineer in the U.S., China, and France. He serves in organizing committees, program committees, and editorial boards for a variety of venues, and ACM has recognized him as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).
 
+**<font color="red">I am lagging behind to update my own publications, [Google Scholar](https://scholar.google.com/citations?user=Uno8dugAAAAJ&hl=en) does a better job than me.</font>**
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 <!-- News:
