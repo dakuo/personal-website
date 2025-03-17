@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Documentation Matters: Human-Centered AI System to Assist Data Science Code Documentation in Computational Notebooks'
 subtitle: ''
 summary: ''
@@ -21,24 +19,16 @@ lastmod: 2024-05-01T19:01:43-04:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2024-05-01T23:01:43.257235Z'
 publication_types:
 - '2'
-abstract: 'Computational notebooks have become popular tools for data science work, but their code often lacks proper documentation, hindering code understanding and collaboration. We present a human-centered AI system called Themisto that assists data scientists in documenting their code in computational notebooks. Themisto automatically generates documentation for code cells and provides an interactive interface for users to review, edit, and regenerate these documentations. Through a within-subjects study with 24 data scientists, we found that Themisto significantly improved documentation coverage and quality compared to manual documentation. Participants reported that the system reduced their documentation effort while maintaining their sense of ownership and control over the content. Our work demonstrates how AI can effectively support data scientists in the critical but often neglected task of code documentation, enhancing both individual productivity and collaborative potential.'
+abstract: "Computational notebooks have become popular tools for data science work, but their code often lacks proper documentation, hindering code understanding and collaboration. We present a human-centered AI system called Themisto that assists data scientists in documenting their code in computational notebooks. Themisto automatically generates documentation for code cells and provides an interactive interface for users to review, edit, and regenerate these documentations. Through a within-subjects study with 24 data scientists, we found that Themisto significantly improved documentation coverage and quality compared to manual documentation. Participants reported that the system reduced their documentation effort while maintaining their sense of ownership and control over the content. Our work demonstrates how AI can effectively support data scientists in the critical but often neglected task of code documentation, enhancing both individual productivity and collaborative potential."
 publication: "ACM Transactions on Computer-Human Interaction"
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3502222'
 url_code: ''
@@ -48,4 +38,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
---- 
+---

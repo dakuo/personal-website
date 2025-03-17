@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data'
 subtitle: ''
 summary: ''
@@ -21,24 +19,16 @@ lastmod: 2024-05-01T19:01:43-04:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2024-05-01T23:01:43.257235Z'
 publication_types:
 - '1'
-abstract: 'Mental health conditions affect millions of people worldwide, yet many remain undiagnosed or untreated due to various barriers. This paper introduces Mental-LLM, a novel approach leveraging large language models (LLMs) to predict mental health conditions from individuals' online text data. We fine-tuned LLMs on a dataset of 12,486 Reddit users with self-reported mental health conditions and 13,735 control users, achieving state-of-the-art performance in predicting depression, PTSD, and anxiety. Mental-LLM outperforms traditional machine learning models and smaller language models, demonstrating superior performance even with limited training data. Our approach offers a promising direction for early mental health screening and intervention through analysis of online text data.'
+abstract: "Mental health conditions affect millions of people worldwide, yet many remain undiagnosed or untreated due to various barriers. This paper introduces Mental-LLM, a novel approach leveraging large language models (LLMs) to predict mental health conditions from individuals online text data. We fine-tuned LLMs on a dataset of 12,486 Reddit users with self-reported mental health conditions and 13,735 control users, achieving state-of-the-art performance in predicting depression, PTSD, and anxiety. Mental-LLM outperforms traditional machine learning models and smaller language models, demonstrating superior performance even with limited training data. Our approach offers a promising direction for early mental health screening and intervention through analysis of online text data."
 publication: "In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3631408'
 url_code: ''
@@ -48,4 +38,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
---- 
+---
