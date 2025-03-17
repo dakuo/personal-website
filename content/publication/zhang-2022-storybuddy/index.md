@@ -3,9 +3,9 @@ title: 'StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactiv
 subtitle: ''
 summary: ''
 authors:
-- Zhan Zhang
+- Zheng Zhang
 - Ying Xu
-- Yao Wang
+- Yanhao Wang
 - Bingsheng Yao
 - Daniel Ritchie
 - Tongshuang Wu
@@ -28,9 +28,9 @@ projects: []
 publishDate: '2024-05-01T23:01:43.257235Z'
 publication_types:
 - '1'
-abstract: "Parent-child interactive storytelling is a crucial activity for children development, but parents may face challenges in creating engaging stories or may not always be available. We present StoryBuddy, an AI-powered chatbot that collaborates with parents and children in interactive storytelling. StoryBuddy supports flexible parental involvement, allowing parents to participate actively or let the system take the lead when needed. Our system generates coherent story content while encouraging children creativity and engagement through questions and suggestions. We conducted a within-subjects study with 16 parent-child pairs, comparing StoryBuddy to a voice-based storytelling application. Results show that StoryBuddy effectively supports parent-child collaboration, enhances story interactivity, and accommodates different levels of parental involvement, making quality storytelling experiences more accessible to families."
+abstract: "Despite its benefits for children's skill development and parent-child bonding, many parents do not often engage in interactive storytelling by having story-related dialogues with their child due to limited availability or challenges in coming up with appropriate questions. While recent advances made AI generation of questions from stories possible, the fully-automated approach excludes parent involvement, disregards educational goals, and underoptimizes for child engagement. Informed by need-finding interviews and participatory design (PD) results, we developed StoryBuddy, an AI-enabled system for parents to create interactive storytelling experiences. StoryBuddy's design highlighted the need for accommodating dynamic user needs between the desire for parent involvement and parent-child bonding and the goal of minimizing parent intervention when busy. The PD revealed varied assessment and educational goals of parents, which StoryBuddy addressed by supporting configuring question types and tracking child progress. A user study validated StoryBuddy's usability and suggested design insights for future parent-AI collaboration systems."
 publication: "In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3491102.3502171'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3491102.3517479'
 url_code: ''
 url_dataset: ''
 url_poster: ''
