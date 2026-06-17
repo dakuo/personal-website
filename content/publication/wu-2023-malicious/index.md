@@ -1,5 +1,5 @@
 ---
-title: 'Malicious Selling Strategies in Livestream E-commerce: A Case Study of Alibaba's Taobao and ByteDance's TikTok'
+title: "Malicious Selling Strategies in Livestream E-commerce: A Case Study of Alibaba's Taobao and ByteDance's TikTok"
 subtitle: ''
 summary: ''
 authors:
