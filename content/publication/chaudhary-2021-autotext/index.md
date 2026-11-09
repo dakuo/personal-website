@@ -1,45 +1,32 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'AutoText: An End-to-End AutoAI Framework for Text'
+title: "Autotext: An end-to-end autoai framework for text"
 subtitle: ''
 summary: ''
 authors:
-- Arunima Chaudhary
-- Alayt Issak
-- Kiran Kate
-- Yannis Katsis
-- Abel Valente
-- admin
-- Alexandre Evfimievski
-- Sairam Gurajada
-- Ban Kawas
-- Cristiano Malossi
-- ' others'
-tags: []
+- "Arunima Chaudhary"
+- "Alayt Issak"
+- "Kiran Kate"
+- "Yannis Katsis"
+- "Abel Valente"
+- "admin"
+- "Alexandre Evfimievski"
+- "Sairam Gurajada"
+- "Ban Kawas"
+- "Cristiano Malossi"
+- "others"
+tags: ["LLMs and AI Agents"]
 categories: []
-date: '2021-01-01'
-lastmod: 2021-04-25T19:01:43-04:00
+date: '2021-12-19'
+publishDate: '2021-12-19'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:43.819461Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*AAAI*'
+publication: "In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 18, pp. 16001-16003)"
+publication_short: "AAAI 2021"
+abstract: ""
+url_pdf: ""
+links:
+- name: "AAAI"
+  url: "https://doi.org/10.1609/aaai.v35i18.17993"
 ---

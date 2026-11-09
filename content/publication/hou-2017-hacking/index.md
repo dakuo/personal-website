@@ -1,37 +1,23 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Hacking with NPOs: Collaborative Analytics and Broker Roles in Civic Data
-  Hackathons'
+title: "Hacking with NPOs: collaborative analytics and broker roles in civic data hackathons"
 subtitle: ''
 summary: ''
 authors:
-- Youyang Hou
-- admin
-tags: []
+- "Youyang Hou"
+- "admin"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2017-01-01'
-lastmod: 2021-04-25T19:01:37-04:00
+date: '2017-12-30'
+publishDate: '2017-12-30'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:37.283686Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proc. ACM Hum.-Comput. Interact*'
+publication: "Proceedings of the ACM on Human-Computer Interaction"
+publication_short: "CSCW 2017"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3134688"
 ---

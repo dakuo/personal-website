@@ -1,43 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Out-of-Domain Detection for Low-Resource Text Classification Tasks
+title: "Out-of-domain detection for low-resource text classification tasks"
 subtitle: ''
 summary: ''
 authors:
-- Ming Tan
-- Yang Yu
-- Haoyu Wang
-- admin
-- Saloni Potdar
-- Shiyu Chang
-- Mo Yu
-tags: []
+- "Ming Tan"
+- "Yang Yu"
+- "Haoyu Wang"
+- "admin"
+- "Saloni Potdar"
+- "Shiyu Chang"
+- "Mo Yu"
+tags: ["LLMs and AI Agents"]
 categories: []
-date: '2019-01-01'
-lastmod: 2021-04-25T19:01:39-04:00
+date: '2019-12-29'
+publishDate: '2019-12-29'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:39.813353Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the 2019 Conference on Empirical Methods in Natural
-  Language Processing and the 9th International Joint Conference on Natural Language
-  Processing (EMNLP-IJCNLP)*'
+publication: "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)"
+publication_short: "EMNLP 2019"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACL Anthology"
+  url: "https://doi.org/10.18653/v1/d19-1364"
 ---

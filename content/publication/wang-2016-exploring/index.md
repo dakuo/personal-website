@@ -1,36 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Exploring and Supporting Today's Collaborative Writing
+title: "Exploring and supporting today’s collaborative writing"
 subtitle: ''
 summary: ''
 authors:
-- admin
-tags: []
+- "admin"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2016-01-01'
-lastmod: 2021-04-25T19:01:36-04:00
+date: '2016-12-30'
+publishDate: '2016-12-30'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:36.556767Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the 2016 CHI conference extended abstracts on human
-  factors in computing systems*'
+publication: "Proceedings of the 2016 CHI conference extended abstracts on human factors in computing systems"
+publication_short: "CHI EA 2016"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/2851581.2859013"
 ---

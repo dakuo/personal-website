@@ -1,40 +1,26 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Face Value? Exploring the Effects of Embodiment for a Group Facilitation Agent
+title: "Face Value? Exploring the effects of embodiment for a group facilitation agent"
 subtitle: ''
 summary: ''
 authors:
-- Ameneh Shamekhi
-- Q Vera Liao
-- admin
-- Rachel KE Bellamy
-- Thomas Erickson
-tags: []
+- "Ameneh Shamekhi"
+- "Q Vera Liao"
+- "admin"
+- "Rachel KE Bellamy"
+- "Thomas Erickson"
+tags: ["Human-Agent Collaboration"]
 categories: []
-date: '2018-01-01'
-lastmod: 2021-04-25T19:01:37-04:00
+date: '2018-12-31'
+publishDate: '2018-12-31'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:37.639612Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the 2018 CHI Conference on Human Factors in Computing
-  Systems*'
+publication: "In Proceedings of the 2018 CHI conference on human factors in computing systems"
+publication_short: "CHI 2018"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3173574.3173965"
 ---

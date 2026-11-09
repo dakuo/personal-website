@@ -1,52 +1,31 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: '" Brilliant AI Doctor" in Rural China: Tensions and Challenges in AI-Powered
-  CDSS Deployment'
+title: "“Brilliant AI doctor” in rural clinics: Challenges in AI-powered clinical decision support system deployment"
 subtitle: ''
 summary: ''
 authors:
-- admin
-- Liuping Wang
-- Zhan Zhang
-- Ding Wang
-- Haiyi Zhu
-- Yvonne Gao
-- Xiangmin Fan
-- Feng Tian
-tags: []
+- "admin"
+- "Liuping Wang"
+- "Zhan Zhang"
+- "Ding Wang"
+- "Haiyi Zhu"
+- "Yvonne Gao"
+- "Xiangmin Fan"
+- "Feng Tian"
+tags: ["AI for Healthcare"]
 categories: []
-date: '2021-03-01'
-lastmod: 2021-04-25T19:01:42-04:00
+date: '2021-12-28'
+publishDate: '2021-12-28'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:42.706563Z'
 publication_types:
 - '1'
-abstract: ''
-publication: "*Proceedings of the CHI'21*"
-
-url_pdf: 'https://arxiv.org/pdf/2101.01524.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+publication: "In Proceedings of the 2021 CHI conference on human factors in computing systems"
+publication_short: "CHI 2021"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3411764.3445432"
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2101.01524"
 ---

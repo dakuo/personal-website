@@ -1,39 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Chinese CHI 2020 Workshop
+title: "Chinese CHI 2020 Workshop"
 subtitle: ''
 summary: ''
 authors:
-- Xiangmin Fan
-- Junfeng Yao
-- Huawei Tu
-- admin
-tags: []
+- "Xiangmin Fan"
+- "Junfeng Yao"
+- "Huawei Tu"
+- "admin"
+tags: ["Community Engagement"]
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-25T19:01:40-04:00
+date: '2020-12-23'
+publishDate: '2020-12-23'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:40.541381Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing
-  Systems*'
+publication: "In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems"
+publication_short: "CHI EA 2020"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3334480.3375155"
 ---

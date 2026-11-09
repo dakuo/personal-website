@@ -1,45 +1,31 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: All Work and No Play?
+title: "All Work and No Play? Conversations with a Question-and-Answer Chatbot in the Wild"
 subtitle: ''
 summary: ''
 authors:
-- Q Vera Liao
-- Muhammed Mas-ud Hussain
-- Praveen Chandar
-- Matthew Davis
-- Yasaman Khazaeni
-- Marco Patricio Crasso
-- admin
-- Michael Muller
-- N Sadat Shami
-- Werner Geyer
-tags: []
+- "Q Vera Liao"
+- "Muhammed Mas-ud Hussain"
+- "Praveen Chandar"
+- "Matthew Davis"
+- "Yasaman Khazaeni"
+- "Marco Patricio Crasso"
+- "admin"
+- "Michael Muller"
+- "N Sadat Shami"
+- "Werner Geyer"
+tags: ["Human-Agent Collaboration"]
 categories: []
-date: '2018-01-01'
-lastmod: 2021-04-25T19:01:37-04:00
+date: '2018-12-30'
+publishDate: '2018-12-30'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:37.456827Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the 2018 CHI Conference on Human Factors in Computing
-  Systems*'
+publication: "In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+publication_short: "CHI 2018"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3173574.3173577"
 ---

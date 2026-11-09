@@ -1,37 +1,28 @@
 ---
-title: 'Secret Use of Large Language Model (LLM)'
+title: "Secret Use of Large Language Model (LLM)"
 subtitle: ''
 summary: ''
 authors:
-- Zhiping Zhang
-- Chenxinran Chen
-- Bingsheng Yao
-- admin
-- Tianshi Li
-tags: []
+- "Zhiping Zhang"
+- "Chenxinran Shen"
+- "Bingsheng Yao"
+- "admin"
+- "Tianshi Li"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2025-01-01'
-lastmod: 2024-05-17T10:25:00-04:00
+date: '2025-12-20'
+publishDate: '2025-12-20'
 featured: false
 draft: false
-
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-projects: []
-publishDate: '2024-05-17T10:25:00.000000Z'
 publication_types:
 - '1'
-abstract: "As Large Language Models (LLMs) become increasingly integrated into various aspects of work and education, a phenomenon of 'secret use' has emerged where individuals utilize these tools without disclosing their assistance. This paper investigates the motivations, practices, and ethical implications of secret LLM use across different contexts. Through interviews and surveys with users who have engaged in undisclosed LLM use, we identify patterns of behavior, justifications, and perceived risks. Our findings reveal complex social dynamics around AI assistance disclosure, including concerns about judgment, fairness, and authenticity. We discuss the implications for policy development, educational practices, and workplace norms as LLMs become more prevalent, and propose design considerations for LLM interfaces that could address some of the underlying issues driving secret use."
-publication: "Proceedings of the ACM on Computer-Supported Cooperative Work and Social Computing (CSCW)"
-url_pdf: 'https://arxiv.org/pdf/2409.19450.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
---- 
+publication: "CSCW 2025"
+publication_short: "CSCW 2025"
+abstract: "The advancements of Large Language Models (LLMs) have decentralized the responsibility for the transparency of AI usage. Specifically, LLM users are now encouraged or required to disclose the use of LLM-generated content for varied types of real-world tasks. However, an emerging phenomenon, users’ secret use of LLM , raises challenges in ensuring end users adhere to the transparency requirement. Our study used mixed-methods with an exploratory survey (125 real-world secret use cases reported) and a controlled experiment among 300 users to investigate the contexts and causes behind the secret use of LLMs. We found that such secretive behavior is often triggered by certain tasks, transcending demographic and personality differences among users. Task types were found to affect users’ intentions to use secretive behavior, primarily through influencing perceived external judgment regarding LLM usage. Our results yield important insights for future work on designing interventions to encourage more transparent disclosure of the use of LLMs or other AI technologies."
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3711061"
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2409.19450"
+---

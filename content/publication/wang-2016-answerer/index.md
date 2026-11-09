@@ -1,38 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Answerer engagement in an enterprise social question & answering system
+title: "Answerer engagement in an enterprise social question & answering system"
 subtitle: ''
 summary: ''
 authors:
-- admin
-- Youyang Hou
-- Lin Luo
-- Yingxin Pan
-tags: []
+- "admin"
+- "Youyang Hou"
+- "Lin Luo"
+- "Yingxin Pan"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2016-01-01'
-lastmod: 2021-04-25T19:01:36-04:00
+date: '2016-12-31'
+publishDate: '2016-12-31'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:36.375551Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*IConference 2016 Proceedings*'
+publication: "IConference 2016 Proceedings"
+publication_short: "iConference 2016"
+abstract: ""
+url_pdf: ""
+links:
+- name: "IDEALS"
+  url: "https://doi.org/10.9776/16266"
 ---

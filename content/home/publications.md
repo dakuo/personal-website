@@ -33,6 +33,6 @@ design:
   view: 4
 ---
 
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+{{% callout note %}}
+Showing the 5 most recent. See [all publications](./publication/) or the [NEU HAI lab list](https://hailab.io/publications).
+{{% /callout %}}

@@ -1,47 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'AutoDS: Towards Human-Centered Automation of Data Science'
+title: "AutoDS: Towards human-centered automation of data science"
 subtitle: ''
 summary: ''
 authors:
-- admin
-- Josh Andres
-- Justin Weisz
-- Erick Oduor
-- Casey Dugan
-tags: []
+- "admin"
+- "Josh Andres"
+- "Justin D Weisz"
+- "Erick Oduor"
+- "Casey Dugan"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2021-03-01'
-lastmod: 2021-04-25T19:01:43-04:00
+date: '2021-12-25'
+publishDate: '2021-12-25'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:43.257235Z'
 publication_types:
 - '1'
-abstract: ''
-publication: "*Proceeding of CHI'21*"
-url_pdf: 'https://arxiv.org/pdf/2101.05273.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+publication: "In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems"
+publication_short: "CHI 2021"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3411764.3445526"
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2101.05273"
 ---

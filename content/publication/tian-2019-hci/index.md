@@ -1,44 +1,29 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'HCI in China: Research Agenda, Education Curriculum, Industry Partnership,
-  and Communities Building'
+title: "HCI in China: Research Agenda, Education Curriculum, Industry Partnership, and Communities Building"
 subtitle: ''
 summary: ''
 authors:
-- Feng Tian
-- Xiangshi Ren
-- Xiangmin Fan
-- Wei Li
-- Haipeng Mi
-- Tun Lu
-- Chun Yu
-- admin
-tags: []
+- "Feng Tian"
+- "Xiangshi Ren"
+- "Xiangmin Fan"
+- "Wei Li"
+- "Haipeng Mi"
+- "Tun Lu"
+- "Chun Yu"
+- "admin"
+tags: ["Community Engagement", "AI for Learning"]
 categories: []
-date: '2019-01-01'
-lastmod: 2021-04-25T19:01:39-04:00
+date: '2019-12-24'
+publishDate: '2019-12-24'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:38.907369Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing
-  Systems*'
+publication: "In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems"
+publication_short: "CHI EA 2019"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3290607.3299005"
 ---

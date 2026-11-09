@@ -1,46 +1,32 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'AutoAI: Automating the End-to-End AI Lifecycle with Humans-in-the-Loop'
+title: "AutoAI: Automating the end-to-end ai lifecycle with humans-in-the-loop"
 subtitle: ''
 summary: ''
 authors:
-- admin
-- Parikshit Ram
-- Daniel Karl I Weidele
-- Sijia Liu
-- Michael Muller
-- Justin D Weisz
-- Abel Valente
-- Arunima Chaudhary
-- Dustin Torres
-- Horst Samulowitz
-- ' others'
-tags: []
+- "admin"
+- "Parikshit Ram"
+- "Daniel Karl I Weidele"
+- "Sijia Liu"
+- "Michael Muller"
+- "Justin D Weisz"
+- "Abel Valente"
+- "Arunima Chaudhary"
+- "Dustin Torres"
+- "Horst Samulowitz"
+- "others"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-25T19:01:40-04:00
+date: '2020-12-24'
+publishDate: '2020-12-24'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:40.365818Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the 25th International Conference on Intelligent User
-  Interfaces Companion*'
+publication: "In Proceedings of the 25th International Conference on Intelligent User Interfaces Companion"
+publication_short: "IUI 2020"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3379336.3381474"
 ---

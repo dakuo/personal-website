@@ -1,40 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Model LineUpper: Supporting Interactive Model Comparison at Multiple Levels
-  for AutoML'
+title: "Model lineupper: Supporting interactive model comparison at multiple levels for automl"
 subtitle: ''
 summary: ''
 authors:
-- Shweta Narkar
-- Yunfeng Zhang
-- Q Vera Liao
-- admin
-- Justin Weisz
-tags: []
+- "Shweta Narkar"
+- "Yunfeng Zhang"
+- "Q Vera Liao"
+- "admin"
+- "Justin D Weisz"
+tags: ["Human-AI Collaboration"]
 categories: []
-date: '2021-01-01'
-lastmod: 2021-04-25T19:01:44-04:00
+date: '2021-12-26'
+publishDate: '2021-12-26'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-04-25T23:01:44.360547Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the ACM IUI*'
+publication: "In 26th International Conference on Intelligent User Interfaces"
+publication_short: "IUI 2021"
+abstract: ""
+url_pdf: ""
+links:
+- name: "ACM DL"
+  url: "https://doi.org/10.1145/3397481.3450658"
+- name: "arXiv"
+  url: "https://arxiv.org/abs/2104.04375"
 ---
