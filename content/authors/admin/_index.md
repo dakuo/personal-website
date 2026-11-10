@@ -86,7 +86,7 @@ Dakuo Wang is an Associate Professor at Northeastern University, jointly appoint
 
 Previously, Dakuo was a Senior Staff Member at IBM Research and Principal Investigator at the MIT-IBM Watson AI Lab. He received his Ph.D. from the University of California, Irvine (advisors: [Judith Olson](https://en.wikipedia.org/wiki/Judith_S._Olson) and [Gary Olson](https://en.wikipedia.org/wiki/Gary_M._Olson)), and has worked as a designer, researcher, and engineer in the U.S., China, and France. ACM has recognized him as an [ACM Distinguished Speaker](https://speakers.acm.org/speakers/wang_12069).   
 
-**<font color="green">[NEU HAI](https://hailab.io/) is hiring: for the 2026-27 academic year, we are recruiting about 5 PhD students and 1 research scientist/postdoc. Interested candidates, please apply via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfF3VInOTX0HrttFkDlAo7YeS-xyU1bEJc78BC_u2RZsKs4bA/viewform).</font>**
+**<font color="green">[NEU HAI](https://hailab.io/) is hiring: for the 2026-27 academic year, we are recruiting about 5 PhD students and 1 research scientist/postdoc. Before applying, please first read our [lab norms](https://hailab.io/join/); if you agree with them, apply via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfF3VInOTX0HrttFkDlAo7YeS-xyU1bEJc78BC_u2RZsKs4bA/viewform).</font>**
 
 Our full, up-to-date publication list is on the [NEU HAI lab website](https://hailab.io/publications); see also [Google Scholar](https://scholar.google.com/citations?user=Uno8dugAAAAJ&hl=en).
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wang.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

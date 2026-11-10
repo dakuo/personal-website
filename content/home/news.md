@@ -1,39 +1,54 @@
 ---
-widget: pages
+# Recent news, synced from https://hailab.io/news plus one-line summaries of Dakuo's Twitter/LinkedIn posts.
+widget: blank
 widget_id: news
 headless: true
+active: true
 weight: 30
 title: Recent News
-subtitle: null
-
-active: false  # Activate this widget? true/false
-
-
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  # filters:
-  #   author: ""
-  #   category: ""
-  #   tag: ""
-  #   exclude_featured: false
-  #   exclude_future: false
-  #   exclude_past: false
-  #   publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
+subtitle: ''
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 1
-  # columns: 2
+  columns: '2'
 ---
+
+<div class="news-scroll" style="max-height:480px; overflow-y:auto; padding-right:8px;">
+<ul>
+  <li><strong>Oct 2026</strong> — Shared thoughts on making smaller AI agents perform better at a fraction of the cost, as one path toward democratizing AI. (<a href="https://twitter.com/dakuowang/status/2112347478280565008" target="_blank" rel="noopener">Twitter</a>)</li>
+  <li><strong>Sep 2026</strong> — Three papers accepted to NeurIPS 2026: <a href="https://arxiv.org/abs/2605.17558" target="_blank" rel="noopener">“Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs”</a>, <a href="https://arxiv.org/abs/2607.05721" target="_blank" rel="noopener">“SpanUQ: Span-Level Uncertainty Quantification for Large Language Model Generation”</a>, and <a href="https://arxiv.org/abs/2604.08905" target="_blank" rel="noopener">“StaRPO: Stability-Augmented Reinforcement Policy Optimization”</a>.</li>
+  <li><strong>Sep 2026</strong> — Welcome to our new PhD students, Zihan Xue, <a href="https://malcolm-chen.github.io/" target="_blank" rel="noopener">Jiaju Chen</a>, and <a href="https://www.jingfeihuang.com/research" target="_blank" rel="noopener">Jingfei Huang</a>, who join the lab this fall.</li>
+  <li><strong>Sep 2026</strong> — Our project “BEACON: Bilingual AI to Enhance Caregivers’ Comprehension of Older Patients’ Clinical Course in Critical Care” is funded by the NIH National Institute on Aging.</li>
+  <li><strong>Jul 2026</strong> — Our project “MindGuard: Early Prediction of Post-Concussion Mental Health Sequelae in Youth with a Multimodal AI System” is funded by the NIH.</li>
+  <li><strong>Jun 2026</strong> — At HCIC 2026, with a Design &amp; AI keynote by Prof. Jodi Forlizzi. (<a href="https://twitter.com/dakuowang/status/2066336382784790642" target="_blank" rel="noopener">Twitter</a>)</li>
+  <li><strong>May 2026</strong> — Shared a workflow for using AI to accelerate learning loops in academic writing, rather than to write for you. (<a href="https://twitter.com/dakuowang/status/2054446895637082302" target="_blank" rel="noopener">Twitter</a>)</li>
+  <li><strong>Apr 2026</strong> — Our student Ziyi Wang presented “Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning” at ICLR 2026. (<a href="https://twitter.com/dakuowang/status/2047763419500351937" target="_blank" rel="noopener">Twitter</a>)</li>
+  <li><strong>Apr 2026</strong> — Endorsed Yunyao Li, my former IBM manager and long-time mentor, for ACM Member-at-Large. (<a href="https://twitter.com/dakuowang/status/2045070830338527660" target="_blank" rel="noopener">Twitter</a>)</li>
+  <li><strong>Apr 2026</strong> — Four papers accepted to the ACL 2026 main conference: “Can LLM Agents Simulate Multi-Turn Human Behavior?”, “Multi-Agent-as-Judge”, “OPeRA”, and “Trajectory2Task”. See you in San Diego.</li>
+  <li><strong>Apr 2026</strong> — Two more papers in Findings of ACL 2026: <a href="https://doi.org/10.18653/v1/2026.findings-acl.443" target="_blank" rel="noopener">“Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning”</a> and <a href="https://doi.org/10.18653/v1/2026.findings-acl.1344" target="_blank" rel="noopener">“On-Policy Self-Distillation for Efficient Diffusion Language Models”</a>.</li>
+  <li><strong>Jan 2026</strong> — Seven papers accepted to CHI 2026, including <a href="https://doi.org/10.1145/3772318.3791960" target="_blank" rel="noopener">collaboration breakdowns in post-surgery care</a>, <a href="https://doi.org/10.1145/3772318.3791301" target="_blank" rel="noopener">AI support for serious illness conversations</a>, the <a href="https://doi.org/10.1145/3772318.3790529" target="_blank" rel="noopener">MIND</a> dashboard for mental health clinicians, and <a href="https://doi.org/10.1145/3772318.3791568" target="_blank" rel="noopener">GUI agents facing dark patterns</a>. See you in Barcelona.</li>
+  <li><strong>Jan 2026</strong> — Two papers accepted to ICLR 2026: <a href="https://openreview.net/forum?id=fkIePp9YEO" target="_blank" rel="noopener">“Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping”</a> and <a href="https://openreview.net/forum?id=ru93xpQFi1" target="_blank" rel="noopener">“SFT Doesn’t Always Hurt General Capabilities”</a>.</li>
+  <li><strong>Jan 2026</strong> — “RECOVER: Designing a Large Language Model-based Remote Patient Monitoring System for Postoperative Gastrointestinal Cancer Care” is accepted to CSCW 2026. See you in Salt Lake City.</li>
+  <li><strong>2026</strong> — Two late-breaking papers at CHI 2026: <a href="https://doi.org/10.1145/3772363.3778744" target="_blank" rel="noopener">“From Human-Human Collaboration to Human-Agent Collaboration”</a> and <a href="https://doi.org/10.1145/3772363.3799039" target="_blank" rel="noopener">“Agent A/B”</a>, which tests live websites with LLM agents.</li>
+  <li><strong>2026</strong> — New journal papers: <a href="https://doi.org/10.1038/s41746-026-02791-3" target="_blank" rel="noopener">“SurgWound-Bench”</a> in npj Digital Medicine, <a href="https://doi.org/10.1145/3788689" target="_blank" rel="noopener">“WatchGuardian”</a> in ACM Transactions on Computing for Healthcare, and <a href="https://doi.org/10.1145/3801972" target="_blank" rel="noopener">“Should I Give Up Now?”</a> in ACM TOSEM.</li>
+  <li><strong>Dec 2025</strong> — Lab members are at NeurIPS 2025 in San Diego (December 2–7) for the Multi-Turn Interaction LLM Workshop and the Scaling Environment Agent Workshop.</li>
+  <li><strong>Aug 2025</strong> — <a href="https://doi.org/10.18653/v1/2025.findings-emnlp.1128" target="_blank" rel="noopener">“Large Language Models with Temporal Reasoning for Longitudinal Clinical Summarization and Prediction”</a> is accepted to Findings of EMNLP 2025.</li>
+  <li><strong>May 2025</strong> — <a href="https://doi.org/10.18653/v1/2025.findings-acl.938" target="_blank" rel="noopener">“Towards a Design Guideline for RPA Evaluation”</a>, a survey of LLM-based role-playing agents, is accepted to Findings of ACL 2025.</li>
+  <li><strong>Jan 2025</strong> — Five papers accepted to CHI 2025, on story reading for children, micro-acts of joy, undisclosed generative AI use in coursework, live-streamed dual-teacher classes, and CardioAI. We’ll be in Yokohama.</li>
+  <li><strong>2025</strong> — Two papers at CSCW 2025: <a href="https://doi.org/10.1145/3757442" target="_blank" rel="noopener">“Mango Mango, How to Let The Lettuce Dry Without A Spinner?”</a>, on an LLM cooking assistant, and <a href="https://doi.org/10.1145/3711061" target="_blank" rel="noopener">“Secret Use of Large Language Model (LLM)”</a>.</li>
+  <li><strong>2025</strong> — <a href="https://doi.org/10.1145/3690624.3709402" target="_blank" rel="noopener">“SepsisCalc”</a> appears at KDD 2025, and <a href="https://doi.org/10.1145/3749508" target="_blank" rel="noopener">“Vital Insight”</a>, on making sense of personal tracking data with visualization and LLMs, in IMWUT.</li>
+  <li><strong>Sep 2024</strong> — <a href="https://doi.org/10.18653/v1/2024.emnlp-main.961" target="_blank" rel="noopener">“StorySpark: Expert-Annotated QA Pairs with Real-World Knowledge for Children Storytelling”</a> is accepted to EMNLP 2024.</li>
+  <li><strong>2024</strong> — Two papers at CHI 2024: <a href="https://doi.org/10.1145/3613904.3642343" target="_blank" rel="noopener">“Rethinking Human-AI Collaboration in Complex Medical Decision Making”</a>, a case study in sepsis diagnosis, and <a href="https://doi.org/10.1145/3613904.3642385" target="_blank" rel="noopener">“It’s a Fair Game, or Is It?”</a>, on disclosure risks with LLM chatbots.</li>
+  <li><strong>2024</strong> — Three papers at CSCW 2024: <a href="https://doi.org/10.1145/3687035" target="_blank" rel="noopener">children-centered AI for preschool storytelling</a>, <a href="https://doi.org/10.1145/3653708" target="_blank" rel="noopener">second opinions in AI-assisted decisions</a>, and <a href="https://doi.org/10.1145/3637358" target="_blank" rel="noopener">teachers and students specifying datasets for ML in education</a>.</li>
+  <li><strong>2024</strong> — Two papers in IMWUT 2024: <a href="https://doi.org/10.1145/3659625" target="_blank" rel="noopener">“Talk2Care”</a>, an LLM voice assistant between health care providers and older adults, and <a href="https://doi.org/10.1145/3643540" target="_blank" rel="noopener">“Mental-LLM”</a>, on mental health prediction from online text.</li>
+  <li><strong>Oct 2023</strong> — Two papers accepted to EMNLP 2023: <a href="https://arxiv.org/abs/2310.15077" target="_blank" rel="noopener">“An Automatic Science Journalism Framework”</a> and <a href="https://arxiv.org/abs/2305.12710" target="_blank" rel="noopener">“Active Learning for Human Annotators with Explanations”</a>.</li>
+  <li><strong>Oct 2023</strong> — We hosted <a href="https://www.microsoft.com/en-us/research/people/wangyun/" target="_blank" rel="noopener">Dr. Yun Wang</a> from Microsoft Research Asia, who shared her work on human-AI co-creation of visual storytelling.</li>
+  <li><strong>Sep 2023</strong> — <a href="https://juhokim.com/" target="_blank" rel="noopener">Prof. Juho Kim</a> from KAIST visited Northeastern for a day of discussions with the lab.</li>
+  <li><strong>Jul 2023</strong> — <a href="https://www.bingshengyao.com/" target="_blank" rel="noopener">Bingsheng ‘Arthur’ Yao</a> passed his proposal defense on human-AI collaboration for better performance and explanations.</li>
+  <li><strong>Jul 2023</strong> — Two papers accepted to ACL 2023: <a href="https://aclanthology.org/2023.acl-long.821" target="_blank" rel="noopener">“Are Human Explanations Always Helpful?”</a> (oral) and <a href="https://aclanthology.org/2023.acl-long.359" target="_blank" rel="noopener">“Are Fairytales Fair?”</a>.</li>
+  <li><strong>Jun 2023</strong> — Our cross-disciplinary team received a $3 million NIMHD grant to build a human-centered AI system for post-operative recovery. <a href="https://www.medstarhealth.org/news-and-publications/news/medstar-health-awarded-grant-to-study-impact-of-amazon-alexa-and-chatgpt-on-post-operative-recovery" target="_blank" rel="noopener">Read the announcement</a>.</li>
+  <li><strong>May 2023</strong> — Prof. Dakuo Wang visited HKUST. Many thanks to <a href="http://huamin.org/" target="_blank" rel="noopener">Prof. Huamin Qu</a> and <a href="https://www.cse.ust.hk/~mxj/" target="_blank" rel="noopener">Prof. Xiaojuan Ma</a> for conversations on teaching, mentorship, research, and leadership.</li>
+  <li><strong>May 2023</strong> — Back from CHI 2023. Next stop: CHI 2024 in Hawaiʻi.</li>
+  <li><strong>Feb 2023</strong> — Prof. Dakuo Wang joins Northeastern University as an Associate Professor in Khoury College and CAMD.</li>
+</ul>
+</div>
+
+<p style="margin-top:12px;">More: <a href="https://hailab.io/news" target="_blank" rel="noopener">lab news</a> · <a href="https://twitter.com/dakuowang" target="_blank" rel="noopener">Twitter</a> · <a href="https://www.linkedin.com/in/dakuowang/" target="_blank" rel="noopener">LinkedIn</a></p>
