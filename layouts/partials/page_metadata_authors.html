@@ -1,0 +1,26 @@
+{{/* Display author list. Override of wowchemy's partial: lab members (data/lab_members.yaml) link to their homepages. */}}
+
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+  {{ range $index, $value := (.GetTerms $taxonomy) }}
+    {{- /* Highlight the author's name? */ -}}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $ext := index site.Data.lab_members .LinkTitle -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{- if $ext -}}
+        <a href="{{ $ext }}"{{ if hasPrefix $ext "http" }} target="_blank" rel="noopener"{{ end }}>{{.LinkTitle}}</a>
+      {{- else if .RelPermalink -}}
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+      {{- else -}}
+        {{ .LinkTitle }}
+      {{- end -}}
+    </span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
